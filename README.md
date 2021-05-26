@@ -1,2 +1,3 @@
-# react-simple-calculator
-This is my simple react calculator.
+It's our simple react calculator
+
+![calculator](./calculator.png)
